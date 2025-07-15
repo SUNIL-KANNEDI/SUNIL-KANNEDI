@@ -8,7 +8,7 @@
 
 🌱 **Skills & Interests**  
 - **AI & ML:** Neural Networks, CNNs, RNNs, Autoencoders, Transformers, LSTMs  
-- **Programming:** C, Python  
+- **Programming:** C, Python and Java 
 
 💬 **Ask me about**: Python, Machine Learning, Deep Learning.  
 
