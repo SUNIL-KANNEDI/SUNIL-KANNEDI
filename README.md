@@ -4,7 +4,7 @@
 - 🎓 MTech AI student at **University of Hyderabad**.  
 - 🌱 Currently learning new AI-related topics that I'm passionate about.  
 - 🔭 Passionate about **Deep Learning, NLP, and Social Network Analysis**.  
-- 💡 Working on **2D to 3D video conversion using Deep Learning**.  
+- 💡 Working on **Quantum Machine Learning and its Applications**.  
 
 🌱 **Skills & Interests**  
 - **AI & ML:** Neural Networks, CNNs, RNNs, Autoencoders, Transformers, LSTMs  
